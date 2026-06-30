@@ -25,12 +25,12 @@ This project analyzes employee attrition patterns using HR data and provides ins
 
 ## Dashboard KPIs
 
-* Employee Count
-* Attrition Count
-* Attrition Rate
-* Average Age
-* Average Salary
-* Average Tenure
+- Employee Count: 1470
+- Attrition Count: 238
+- Attrition Rate: 16.08%
+- Average Age: 36.92
+- Average Salary: 6.50K
+- Average Tenure: 7.01 Years
 
 ## Key Findings
 
